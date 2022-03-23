@@ -71,25 +71,89 @@
       "id": 1,
       "name": "Tutor",
       "url": "https://imgur.com/L7APe99.png"
-      "pets": [{"id": 1,"id": 2,"id": 3,}]
+      "pets": [
+         {
+          "id": 1,
+          "name": "pet",
+          "url": "https://imgur.com/fueqPcQ.png"
+         },
+        {
+          "id": 2,
+          "name": "Thor",
+          "url": "https://imgur.com/6ChhRho.png"
+        },
+        {
+          "id": 3,
+          "name": "Luca",
+          "url": "https://imgur.com/X9NL7UY.png"
+        },
+      ]
     },
     {
       "id": 2,
       "name": "Jennifer",
       "url": "https://imgur.com/h4VX2Cb.png"
-      "pets": [{"id": 1,"id": 4,"id": 5,}]
+      "pets": [
+         {
+          "id": 1,
+          "name": "pet",
+          "url": "https://imgur.com/fueqPcQ.png"
+         },
+        {
+          "id": 2,
+          "name": "Thor",
+          "url": "https://imgur.com/6ChhRho.png"
+        },
+        {
+          "id": 3,
+          "name": "Luca",
+          "url": "https://imgur.com/X9NL7UY.png"
+        },
+      ]
     },
     {
       "id": 3,
       "name": "Marcelo",
       "url": "https://imgur.com/H3U3VTg.png"
-      "pets": [{"id": 1,"id": 6,"id": 7,}]
+      "pets": [
+         {
+          "id": 1,
+          "name": "pet",
+          "url": "https://imgur.com/fueqPcQ.png"
+         },
+        {
+          "id": 2,
+          "name": "Thor",
+          "url": "https://imgur.com/6ChhRho.png"
+        },
+        {
+          "id": 3,
+          "name": "Luca",
+          "url": "https://imgur.com/X9NL7UY.png"
+        },
+      ]
     },
     {
       "id": 4,
       "name": "André",
       "url": "https://imgur.com/0nlhUlH.png"
-      "pets": [{"id": 1,"id": 8,"id": 9,}]
+      "pets": [
+         {
+          "id": 1,
+          "name": "pet",
+          "url": "https://imgur.com/fueqPcQ.png"
+         },
+        {
+          "id": 2,
+          "name": "Thor",
+          "url": "https://imgur.com/6ChhRho.png"
+        },
+        {
+          "id": 3,
+          "name": "Luca",
+          "url": "https://imgur.com/X9NL7UY.png"
+        },
+      ]
     }
   ]
 }
