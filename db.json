@@ -71,21 +71,25 @@
       "id": 1,
       "name": "Tutor",
       "url": "https://imgur.com/L7APe99.png"
+      "pets": [{"id": 1,"id": 2,"id": 3,}]
     },
     {
       "id": 2,
       "name": "Jennifer",
       "url": "https://imgur.com/h4VX2Cb.png"
+      "pets": [{"id": 1,"id": 4,"id": 5,}]
     },
     {
       "id": 3,
       "name": "Marcelo",
       "url": "https://imgur.com/H3U3VTg.png"
+      "pets": [{"id": 1,"id": 6,"id": 7,}]
     },
     {
       "id": 4,
       "name": "André",
       "url": "https://imgur.com/0nlhUlH.png"
+      "pets": [{"id": 1,"id": 8,"id": 9,}]
     }
   ]
 }
