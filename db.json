@@ -1,176 +1,168 @@
 {
-   "pets":[
-      {
-         "id":1,
-         "name":"pet",
-         "url":"https://imgur.com/fueqPcQ.png",
-         "tutores":[
-            
-         ]
-      },
-      {
-         "id":2,
-         "name":"Thor",
-         "url":"https://imgur.com/6ChhRho.png",
-         "tutores":[
-            {
-               "id":1,
-               "name":"Tutor",
-               "url":"https://imgur.com/L7APe99.png"
-            },
-            {
-               "id":2,
-               "name":"Jennifer",
-               "url":"https://imgur.com/h4VX2Cb.png"
-            },
-            {
-               "id":3,
-               "name":"Marcelo",
-               "url":"https://imgur.com/H3U3VTg.png"
-            },
-            {
-               "id":4,
-               "name":"André",
-               "url":"https://imgur.com/0nlhUlH.png"
-            }
-         ]
-      },
-      {
-         "id":3,
-         "name":"Luca",
-         "url":"https://imgur.com/X9NL7UY.png",
-         "tutores":[
-            {
-               "id":1,
-               "name":"Tutor",
-               "url":"https://imgur.com/L7APe99.png"
-            },
-            {
-               "id":2,
-               "name":"Jennifer",
-               "url":"https://imgur.com/h4VX2Cb.png"
-            },
-            {
-               "id":3,
-               "name":"Marcelo",
-               "url":"https://imgur.com/H3U3VTg.png"
-            },
-            {
-               "id":4,
-               "name":"André",
-               "url":"https://imgur.com/0nlhUlH.png"
-            }
-         ]
-      },
-      {
-         "id":4,
-         "name":"Hulk",
-         "url":"https://imgur.com/OuIBW2J.png",
-         "tutores":[
-            {
-               "id":4,
-               "name":"André",
-               "url":"https://imgur.com/0nlhUlH.png"
-            }
-         ]
-      },
-      {
-         "id":5,
-         "name":"Jhon Snow",
-         "url":"https://imgur.com/otXUVv0.png",
-         "tutores":[
-            {
-               "id":3,
-               "name":"Marcelo",
-               "url":"https://imgur.com/H3U3VTg.png"
-            }
-         ]
-      },
-      {
-         "id":6,
-         "name":"Amora",
-         "url":"https://imgur.com/2afc3cH.png",
-         "tutores":[
-            
-         ]
-      },
-      {
-         "id":7,
-         "name":"Lua",
-         "url":"https://imgur.com/E70DusZ.png",
-         "tutores":[
-            
-         ]
-      },
-      {
-         "id":8,
-         "name":"Tony",
-         "url":"https://imgur.com/FBYUvbn.png",
-         "tutores":[
-            
-         ]
-      },
-      {
-         "id":9,
-         "name":"Charles",
-         "url":"https://imgur.com/KEhqIiy.png",
-         "tutores":[
-            
-         ]
-      },
-      {
-         "id":10,
-         "name":"Scooby",
-         "url":"https://imgur.com/QMJDYLx.png",
-         "tutores":[
-            
-         ]
-      },
-      {
-         "id":11,
-         "name":"Dudu",
-         "url":"https://imgur.com/RrwvBkC.png",
-         "tutores":[
-            
-         ]
-      },
-      {
-         "id":12,
-         "name":"Nutella",
-         "url":"https://imgur.com/F1XuM95.png",
-         "tutores":[
-            
-         ]
-      },
-      {
-         "id":13,
-         "name":"Pingo",
-         "url":"https://love.doghero.com.br/wp-content/uploads/2018/12/golden-retriever-1.png",
-         "tutores":[
-            
-         ]
-      }
-   ],
-   "tutores":[
-      {
-         "id":1,
-         "name":"Tutor",
-         "url":"https://imgur.com/L7APe99.png"
-      },
-      {
-         "id":2,
-         "name":"Jennifer",
-         "url":"https://imgur.com/h4VX2Cb.png"
-      },
-      {
-         "id":3,
-         "name":"Marcelo",
-         "url":"https://imgur.com/H3U3VTg.png"
-      },
-      {
-         "id":4,
-         "name":"André",
-         "url":"https://imgur.com/0nlhUlH.png"
-      }
-   ]
+	"pets": [{
+			"id": 1,
+			"name": "pet",
+			"url": "https://imgur.com/fueqPcQ.png",
+			"tutores": [
+
+			]
+		},
+		{
+			"id": 2,
+			"name": "Thor",
+			"url": "https://imgur.com/6ChhRho.png",
+			"tutores": [{
+					"id": 1,
+					"name": "Tutor",
+					"url": "https://imgur.com/L7APe99.png"
+				},
+				{
+					"id": 2,
+					"name": "Jennifer",
+					"url": "https://imgur.com/h4VX2Cb.png"
+				},
+				{
+					"id": 3,
+					"name": "Marcelo",
+					"url": "https://imgur.com/H3U3VTg.png"
+				},
+				{
+					"id": 4,
+					"name": "André",
+					"url": "https://imgur.com/0nlhUlH.png"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Luca",
+			"url": "https://imgur.com/X9NL7UY.png",
+			"tutores": [{
+					"id": 1,
+					"name": "Tutor",
+					"url": "https://imgur.com/L7APe99.png"
+				},
+				{
+					"id": 2,
+					"name": "Jennifer",
+					"url": "https://imgur.com/h4VX2Cb.png"
+				},
+				{
+					"id": 3,
+					"name": "Marcelo",
+					"url": "https://imgur.com/H3U3VTg.png"
+				},
+				{
+					"id": 4,
+					"name": "André",
+					"url": "https://imgur.com/0nlhUlH.png"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Hulk",
+			"url": "https://imgur.com/OuIBW2J.png",
+			"tutores": [{
+				"id": 4,
+				"name": "André",
+				"url": "https://imgur.com/0nlhUlH.png"
+			}]
+		},
+		{
+			"id": 5,
+			"name": "Jhon Snow",
+			"url": "https://imgur.com/otXUVv0.png",
+			"tutores": [{
+				"id": 3,
+				"name": "Marcelo",
+				"url": "https://imgur.com/H3U3VTg.png"
+			}]
+		},
+		{
+			"id": 6,
+			"name": "Amora",
+			"url": "https://imgur.com/2afc3cH.png",
+			"tutores": [
+
+			]
+		},
+		{
+			"id": 7,
+			"name": "Lua",
+			"url": "https://imgur.com/E70DusZ.png",
+			"tutores": [
+
+			]
+		},
+		{
+			"id": 8,
+			"name": "Tony",
+			"url": "https://imgur.com/FBYUvbn.png",
+			"tutores": [
+
+			]
+		},
+		{
+			"id": 9,
+			"name": "Charles",
+			"url": "https://imgur.com/KEhqIiy.png",
+			"tutores": [
+
+			]
+		},
+		{
+			"id": 10,
+			"name": "Scooby",
+			"url": "https://imgur.com/QMJDYLx.png",
+			"tutores": [
+
+			]
+		},
+		{
+			"id": 11,
+			"name": "Dudu",
+			"url": "https://imgur.com/RrwvBkC.png",
+			"tutores": [
+
+			]
+		},
+		{
+			"id": 12,
+			"name": "Nutella",
+			"url": "https://imgur.com/F1XuM95.png",
+			"tutores": [
+
+			]
+		},
+		{
+			"id": 13,
+			"name": "Pingo",
+			"url": "https://love.doghero.com.br/wp-content/uploads/2018/12/golden-retriever-1.png",
+			"tutores": [
+
+			]
+		}
+	],
+	"tutores": [{
+			"id": 1,
+			"name": "Tutor",
+			"url": "https://imgur.com/L7APe99.png"
+		},
+		{
+			"id": 2,
+			"name": "Jennifer",
+			"url": "https://imgur.com/h4VX2Cb.png"
+		},
+		{
+			"id": 3,
+			"name": "Marcelo",
+			"url": "https://imgur.com/H3U3VTg.png"
+		},
+		{
+			"id": 4,
+			"name": "André",
+			"url": "https://imgur.com/0nlhUlH.png"
+		}
+	]
 }
