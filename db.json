@@ -144,7 +144,7 @@
 			]
 		}
 	],
-	"tutores": [{
+	"tutor": [{
 			"id": 1,
 			"name": "Tutor",
 			"url": "https://imgur.com/L7APe99.png"
